@@ -1,0 +1,13 @@
+{
+    "name": "ejacky/lara-form-api",
+    "description": "auto generate api by create form",
+    "licence": "MIT",
+
+    "require": {
+        "php": ">=5.5.9"
+
+    },
+    "autoload": {
+
+    }
+}
